@@ -1,5 +1,7 @@
 # YAIM904 d27b – Use Coin 🪙
 
+---
+
 ## 📦 Description
 
 **YAIM904 d27b – Use Coin** introduces a **coin-based crafting system** that allows players to craft items using **coins instead of traditional ingredients**.
@@ -54,7 +56,7 @@ No scripting or manual commands are required from the player.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
